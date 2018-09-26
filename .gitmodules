@@ -1,0 +1,18 @@
+[submodule "vim/.vim/bundle/better-indent-support-for-php-with-html"]
+	path = vim/.vim/bundle/better-indent-support-for-php-with-html
+	url = https://github.com/captbaritone/better-indent-support-for-php-with-html
+[submodule "vim/.vim/bundle/vim-javascript"]
+	path = vim/.vim/bundle/vim-javascript
+	url = https://github.com/pangloss/vim-javascript
+[submodule "vim/.vim/bundle/vim-python-pep8-indent"]
+	path = vim/.vim/bundle/vim-python-pep8-indent
+	url = https://github.com/Vimjas/vim-python-pep8-indent
+[submodule "nvim/.config/nvim/bundle/vim-python-pep8-indent"]
+	path = nvim/.config/nvim/bundle/vim-python-pep8-indent
+	url = https://github.com/Vimjas/vim-python-pep8-indent
+[submodule "nvim/.config/nvim/bundle/vim-javascript"]
+	path = nvim/.config/nvim/bundle/vim-javascript
+	url = https://github.com/pangloss/vim-javascript
+[submodule "nvim/.config/nvim/bundle/better-indent-support-for-php-with-html"]
+	path = nvim/.config/nvim/bundle/better-indent-support-for-php-with-html
+	url = https://github.com/captbaritone/better-indent-support-for-php-with-html
