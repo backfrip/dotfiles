@@ -1,6 +1,7 @@
 execute pathogen#infect()
 
 set number
+set ruler
 set guicursor=
 set tabstop=4
 set softtabstop=4
