@@ -1,5 +1,5 @@
 # pipsi
-export PATH=/home/$USER/.local/bin:$PATH
+export PATH="$HOME/.local/bin:$PATH"
 
 # pyenv
 export PYENV_ROOT="$HOME/.pyenv"
@@ -12,3 +12,9 @@ fi
 alias vim="nvim"
 export VISUAL=nvim
 export EDITOR="$VISUAL"
+
+# nodenv
+export PATH="$HOME/.nodenv/bin:$PATH"
+if command -v nodenv 1>/dev/null 2>&1; then
+  eval "$(nodenv init -)"
+fi
